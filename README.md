@@ -31,3 +31,6 @@
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrispaz88&show_icons=true&locale=en&layout=compact" alt="chrispaz stats" /></p>
+
+![Github Stats Chrispaz88](https://github-readme-stats.vercel.app/api?username=chrispaz88&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+
