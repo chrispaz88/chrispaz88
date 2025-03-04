@@ -7,7 +7,7 @@
 - +1 year experience in Django Framework 🐍
 - Experience in Microsoft Suite: Power Automate, Power Apps, SharePoint, Power BI 💻
 - Now, learning **Maching Learning** 🤖 
-- Enthusiastic supporter of free software  🐧
+- Enthusiastic supporter Open Source Software 🐧
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
