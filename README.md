@@ -3,8 +3,10 @@
 <img src="https://user-images.githubusercontent.com/43351303/173751901-d5abffa3-092a-4e16-af64-cc5e4838fc49.jpg">
 </p>
 
-- I am a beginner web developer from Ecuador  🇪🇨  || Currently studying **Software Engineering**  💻  in EPN. 
-- Now, learning **React**  :atom:  **NodeJs**  🟢
+- I am a **Software Engineering**  from Ecuador  🇪🇨  ||
+- +1 year experience in Django Framework 🐍
+- Experience in Microsoft Suite: Power Automate, Power Apps, SharePoint, Power BI 💻
+- Now, learning **Maching Learning** 🤖 
 - Enthusiastic supporter of free software  🐧
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
