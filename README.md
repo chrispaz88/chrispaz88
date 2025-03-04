@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/43351303/173751901-d5abffa3-092a-4e16-af64-cc5e4838fc49.jpg">
 </p>
 
-- I am a **Software Engineering**  from Ecuador  🇪🇨  ||
+- I am a **Software Engineering**  from Ecuador  🇪🇨 
 - +1 year experience in Django Framework 🐍
 - Experience in Microsoft Suite: Power Automate, Power Apps, SharePoint, Power BI 💻
 - Now, learning **Maching Learning** 🤖 
@@ -11,13 +11,12 @@
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="django" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-purple?style=for-the-badge&logo=linux&logoColor=white" alt="linux" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-CC6699?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react-429AC9?&style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java-orange?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </p>
